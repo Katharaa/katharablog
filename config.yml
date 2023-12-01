@@ -1,5 +1,4 @@
 languageCode: en-us
-#baseURL: "https://katharaa.github.io/katharablog/"
 baseURL: "https://kathara.in/"
 title: Kathara Sasikumar
 paginate: 5
