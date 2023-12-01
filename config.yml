@@ -19,7 +19,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Kathara Sasikumar
-  description: "This is the website of **Kathara Sasikumar**, Ph.D. and I create hchg gfgft fxx ffxgfgxjn xgfffbn."
+  description: "This is **Kathara**"
   keywords: [Blog, Portfolio]
   author: Kathara Sasikumar
   # author: ["Me", "You"] # multiple authors
@@ -49,8 +49,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Welcome hello!"
-    subtitle: "This is the website of **Kathara Sasikumar**."
+    title: "Hi!"
+    subtitle: "This is **Kathara**"
    
     imageUrl: "images/do.png"
     imageWidth: 120
@@ -64,8 +64,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Welcome hello!"
-    Content: "This is the website of **Kathara Sasikumar**"
+    Title: "Hi!"
+    Content: ""This is **Kathara**"
 
   socialIcons:
 
