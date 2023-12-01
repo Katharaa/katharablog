@@ -15,12 +15,10 @@ draft: false
 ---
 
 
-Hey there, I'm Kathara Sasikumar, your friendly explorer in the world of tech and creativity! With a degree in Computer Science and Engineering, I've embarked on a thrilling journey through the realm of open source, art, and everything in between.
 
-When I'm not deciphering code, you'll find me laughing with friends, painting on canvases, lost in the pages of a good book, or even singing in the kitchen while experimenting with a new recipe. Life for me is more than just algorithms; it's about embracing a tapestry of experiences.
+Hey, I'm Kathara Sasikumar, jumping into the world of tech and creativity! I studied Computer Science and Engineering and now I'm exploring open source, art, and more.
 
-Join me as I navigate the fascinating landscapes of open source, share my insights, and explore the convergence of technology and creativity. Connect with me on social media to stay tuned for the latest updates, and let's embark on this adventure together!
-
+Follow me on social media for updates, and let's enjoy this adventure together! 🌟
 
 
 
