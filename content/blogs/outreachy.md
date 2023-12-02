@@ -1,5 +1,5 @@
 ---
-title: "Week 1 - Outreachy"
+title: "Outreachy!"
 date: 2023-11-28 T23:15:00+07:00
 slug: Week 1 - Outreachy
 category: blog 
