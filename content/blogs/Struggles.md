@@ -1,5 +1,5 @@
 ---
-title: "Outreachy!"
+title: "Facing the Struggles"
 date: 2023-12-17 T23:15:00+07:00
 slug: Week 3 - Facing the Struggles
 category: blog 
