@@ -17,7 +17,7 @@ draft: false
 
 Greetings, world! Back with the freshest update on my Outreachy journey with Debian. Wrapping up the second week, I've just begun dipping my toes into the ocean of possibilities. Debian Wiki, a vital pillar in this adventure, stands as the vast ocean itself, playing a crucial role in shaping my journey.
 
-The Debian Wiki serves as an expansive reservoir of knowledge, offering a diverse array of information and documentation. Its significance lies in its role as a comprehensive guide, providing insights and details crucial for navigating the intricacies of Debian's vast ecosystem. In the world of open-source development, where information is everything, Debian Wiki stands out as a super important tool. It helps me understand the details of hundreds and thousands of packages.Additionally, it serves as a hub for crucial updates, including security alerts and project announcements, making it an indispensable resource for all Debian enthusiasts.
+The Debian Wiki serves as an expansive reservoir of knowledge, offering a diverse array of information and documentation. Its significance lies in its role as a comprehensive guide, providing insights and details crucial for navigating the intricacies of Debian's vast ecosystem. In the world of open-source development, where information is everything, Debian Wiki stands out as a super important tool. It helps me understand the details of hundreds and thousands of packages. Additionally, it serves as a hub for crucial updates, including security alerts and project announcements, making it an indispensable resource for all Debian enthusiasts.
 
 
 
