@@ -1,7 +1,7 @@
 ---
-title: "learning continues"
-date: 2023-12-17 T23:15:00+07:00
-slug: Week 3 - learning continues
+title: "Learning Continues"
+date: 2023-01-10 T23:15:00+07:00
+slug: Week 3 - Learning Continues
 category: blog 
 summary:
 description: 
