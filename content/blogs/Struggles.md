@@ -1,6 +1,8 @@
 ---
 title: "Facing the Struggles"
-date: 2023-12-17 T23:15:00+07:00
+date: 2023-12-17
+draft: false
+ShowToc: true
 slug: Week 3 - Facing the Struggles
 category: blog 
 summary:
