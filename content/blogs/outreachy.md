@@ -2,7 +2,8 @@
 title: "Outreachy!"
 date: 2024-11-28
 draft: false
-ShowToc: trueslug: Week 1 - Outreachy
+ShowToc: true
+slug: Week 1 - Outreachy
 category: blog 
 summary:
 description: 
