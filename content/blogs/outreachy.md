@@ -1,6 +1,6 @@
 ---
 title: "Outreachy!"
-date: 2024-11-28
+date: 2023-11-28
 draft: false
 ShowToc: true
 slug: Week 1 - Outreachy
