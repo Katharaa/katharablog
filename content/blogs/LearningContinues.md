@@ -1,6 +1,8 @@
 ---
 title: "Learning Continues"
-date: 2024-01-10 T23:15:00+07:00
+date: 2024-01-01
+draft: false
+ShowToc: true
 slug: Week 3 - Learning Continues
 category: blog 
 summary:
