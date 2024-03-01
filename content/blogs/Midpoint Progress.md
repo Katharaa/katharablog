@@ -3,7 +3,7 @@ title: "Midpoint Progress"
 date: 2024-02-20
 draft: false
 ShowToc: true
-#slug: Week 3 - Learning Continues
+slug: 
 category: blog 
 summary:
 description: 
@@ -18,7 +18,6 @@ draft: false
 
 
 Hello Readers!
-#==============
 
 As we reach the midpoint of our internship program, it is an opportune moment to assess the progress achieved thus far and delineate the path forward for the upcoming phase. Experience our discussion on our accomplishments, the hurdles we've faced, and our plans for the future.
 
