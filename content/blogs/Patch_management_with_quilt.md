@@ -15,8 +15,6 @@ cover:
 showtoc: true
 draft: false
 --- 
-Patch management with quilt :)
-===============================
 
 In Debian packaging, a patch refers to a file containing changes to a source file or directory. 
 **They help you fix bugs, add features, or make other changes without affecting the original code directly.**
