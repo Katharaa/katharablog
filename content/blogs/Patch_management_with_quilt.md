@@ -100,12 +100,7 @@ Before committing changes, ensure all patches are popped. *(Also Remember not to
     git add debian/patches/
     git commit -m "Applied patches using Quilt"
 
-
-    quilt pop -a
-    git add debian/patches/
-    git commit -m "Applied patches using Quilt"
     
-
 
 
 --------------------------------------------------------------
