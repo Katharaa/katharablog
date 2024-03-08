@@ -1,5 +1,5 @@
 ---
-title: "Patch management with quilt"
+title: "Patch management with quilt :)"
 date: 2024-03-08
 draft: false
 ShowToc: true
