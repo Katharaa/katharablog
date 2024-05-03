@@ -45,7 +45,7 @@ One particularly heartwarming moment came when an attendee offered a token of ap
 
 People visited the front desk not just for registration but also for inquiries and assistance. It became a hub of information and support, and we had the privilege of helping many attendees with their questions and requests. In short, most of our volunteering experience revolved around the front desk, and it turned out to be an incredible and enriching experience.
 
-![food](/images/1.png)
+![hacklab](/images/1.png)
 
 DebConf: 
 -----------------------------------------
@@ -62,7 +62,7 @@ DebConf was akin to a vibrant hub of information and learning (later extending t
 
 * **Home automation using free software** by Abhas Abhinav demonstrated how to control various home devices exclusively with free software. The workshop featured hands-on demonstrations, including setting up a home server using Yunohost and Home Assistant on Debian, configuring a wireless router with OpenWRT, flashing tube lights with free software firmware (Tasmota), controlling electrical switches with Tasmota and Espurna firmware, monitoring power consumption, creating colorful lights with WLED, and integrating self-hosted voice assistants like Mycroft with Home Assistant. The workshop aimed to inspire participants to create similar setups and contribute to improving Debian's compatibility with these tools.
 
-![food](/images/0.JPG)
+![conf](/images/0.JPG)
 
 And that sums up it all. Along with the Debconf, the sponsors hosted a job fair in a designated area during the conference, connecting attendees with professional opportunities.
 
@@ -98,8 +98,8 @@ It was an exciting day, as we had the opportunity to choose from five different 
 
  We set sail on the Punnamada Kayal in a traditional Kerala houseboat, drifting through the serene backwaters, surrounded by lush greenery and tranquil waters. I had a lot of fun playing games onboard, swapping stories with folks from different places, listening to experiences from their previous conferences, and enjoying the most delicious food.
 
-![food](/images/5.png)
-![food](/images/6.png)
+![fun](/images/5.png)
+![boat](/images/6.jpg)
 
 
 
