@@ -121,7 +121,8 @@ The Post-Credits: Farewell to DebConf23
 ## Gallery
 | ![Food](/images/a.jpg) | ![Food](/images/b.jpg) |
 |:--:|:--:|
-| ![Fun](/images/c.JPG)| ![Boat](/images/d.JPG) |
-| ![Food](/images/e.jpg) | ![Food](/images/f.JPJ|
+| ![Fun](/images/c.JPG)| ![Boat](/images/e.jpg) |
+|:--:|:--:|
+| ![night](/images/f.JPG)|
 
 
