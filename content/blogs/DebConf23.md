@@ -20,7 +20,6 @@ I almost missed the 24th Debian Conference because I forgot to register, which w
 
 And also guess what? They accepted my talk for the conference, so I was even more thrilled for the event! :)
 
-![pic](/static/images/0.png)
 
 
 
@@ -92,6 +91,9 @@ Exploring Alappuzha:
 It was an exciting day, as we had the opportunity to choose from five different day trips. We could choose from five different day trips. I decided to go to Alappuzha, where I had the chance to ride on a houseboat. It was a new adventure for me, even though I'm from Kerala.
 
  We set sail on the Punnamada Kayal in a traditional Kerala houseboat, drifting through the serene backwaters, surrounded by lush greenery and tranquil waters. I had a lot of fun playing games onboard, swapping stories with folks from different places, listening to experiences from their previous conferences, and enjoying the most delicious food.
+
+![pic](/static/images/5.png)
+
 
 Remembering Abraham Raji:
 -----------------------------------------
