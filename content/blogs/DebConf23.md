@@ -45,7 +45,7 @@ One particularly heartwarming moment came when an attendee offered a token of ap
 
 People visited the front desk not just for registration but also for inquiries and assistance. It became a hub of information and support, and we had the privilege of helping many attendees with their questions and requests. In short, most of our volunteering experience revolved around the front desk, and it turned out to be an incredible and enriching experience.
 
-![noisy hack labs](/static/images/1.png)
+![noisy hack labs](katharablog/static/images/1.png)
 
 DebConf: 
 -----------------------------------------
