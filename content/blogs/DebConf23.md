@@ -3,7 +3,7 @@ title: "DebConf 23"
 date: 2023-08-01
 draft: false
 ShowToc: true
-slug: Debian Conference
+slug: DebConf 23
 category: blog 
 summary:
 description: 
@@ -119,5 +119,5 @@ The Post-Credits: Farewell to DebConf23
  As the final day of DebConf23 dawned, I savored my last breakfast with no compromises. It was a fitting conclusion to a memorable journey. Afterwards, it was time to bid farewell to all the new friends I had gathered during DebConf, an emotional yet heartwarming experience. With the conference coming to a close, our next stop was the courier service, where we sent the leftover swags to friends who had played a crucial role in making the MiniDebConf at our college a reality. It was a small token of appreciation for their support. Finally, with a heavy heart filled with cherished memories, I departed for my hometown, knowing that DebConf23 had left an indelible mark on my journey in the world of open-source and community. Until next time!
 
 ## Gallery 
-| ![Food](/images/a.jpg) |  ![Food](/images/b.jpg) | 
-| ![Fun](/images/c.JPG)  |  ![Boat](/images/e.jpg) |
+| ![Food](/images/a.jpg) | ![Food](/images/b.jpg) |
+| ![Fun](/images/c.JPG)| ![Boat](/images/e.jpg) |
