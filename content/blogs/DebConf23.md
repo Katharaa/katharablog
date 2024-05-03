@@ -45,7 +45,7 @@ One particularly heartwarming moment came when an attendee offered a token of ap
 
 People visited the front desk not just for registration but also for inquiries and assistance. It became a hub of information and support, and we had the privilege of helping many attendees with their questions and requests. In short, most of our volunteering experience revolved around the front desk, and it turned out to be an incredible and enriching experience.
 
-![noisy hack labs](katharablog/static/images/1.png)
+![food](/images/1.png)
 
 DebConf: 
 -----------------------------------------
@@ -72,7 +72,6 @@ The Cheese and Wine Party: A Missed Opportunity
 -----------------------------------------------
 
 An event we missed out on for the most part, as we were busy assisting attendees in acquiring local SIM cards.
-![food](/static/images/0.jpg)
 
 So, what exactly is a cheese and wine party? The concept is refreshingly simple: participants bring delectable treats from their respective countries, preferably edible, but grapes and lactose are entirely optional. While cheese is undoubtedly a crowd-pleaser, it's the delightful surprises from around the world that truly steal the show. Even if you didn't bring anything to share, everyone is welcome to join in.
 
@@ -81,10 +80,11 @@ So, what exactly is a cheese and wine party? The concept is refreshingly simple:
 
 
 
-![food](/images/1.png)
+![food](/images/3.png)
 
 
 
+![food](/images/4.png)
 
 
 
@@ -95,28 +95,24 @@ Exploring Alappuzha:
 -----------------------------------------
 
 It was an exciting day, as we had the opportunity to choose from five different day trips. We could choose from five different day trips. I decided to go to Alappuzha, where I had the chance to ride on a houseboat. It was a new adventure for me, even though I'm from Kerala.
-![food](/images/2.png)
 
  We set sail on the Punnamada Kayal in a traditional Kerala houseboat, drifting through the serene backwaters, surrounded by lush greenery and tranquil waters. I had a lot of fun playing games onboard, swapping stories with folks from different places, listening to experiences from their previous conferences, and enjoying the most delicious food.
 
-![pic](/static/images/5.png)
+![food](/images/5.png)
 
 
 Remembering Abraham Raji:
 -----------------------------------------
 
 As we returned from our day trip, we were met with heartbreaking news. The tragic passing of Abraham Raji was due to an accident during one of the other trips. Abraham was not just a core coordinator of DebConf23; he was the designer of the DebConf23 logo. In addition to his creative talents, he was a Debian developer with remarkable skills at such a young age. The entire DebConf community was enveloped in grief. In a solemn gesture of respect and remembrance, all scheduled sessions and even the conference dinner for the following day were cancelled. Moved by our shared sorrow, I, along with fellow attendees, visited Abraham Raji's family to offer our condolences and stand in solidarity during this difficult time.
-![food](/images/3.png)
 
- The rest of DebConf was marked by a somber tone as many speakers, including myself, cancelled the talks as a mark of respect for Abraham Raji.
+The rest of DebConf was marked by a somber tone as many speakers, including myself, cancelled the talks as a mark of respect for Abraham Raji.
 
  On the final day of DebConf, Tzafrir Cohen shared some preliminary details about the upcoming DebConf24 in Haifa, Israel. This was followed by the bidding process for DebConf25. The day concluded with the closing ceremony, marking the end of the event. We then enjoyed our last dinner at DebConf, savoring a vast variety of cuisines to bid farewell to this remarkable gathering.
-![food](/images/4.png)
 
- In closing, I'd like to extend heartfelt thanks to all those who made DebConf23 an unforgettable experience. To the organizing team, your dedication and hard work made this event possible, and we are immensely grateful for the opportunity to be part of it.
- And to my friends who shared in this incredible journey: Thank you all for making this event truly remarkable.
+In closing, I'd like to extend heartfelt thanks to all those who made DebConf23 an unforgettable experience. To the organizing team, your dedication and hard work made this event possible, and we are immensely grateful for the opportunity to be part of it. And to my friends who shared in this incredible journey: Thank you all for making this event truly remarkable.
+
 The Post-Credits: Farewell to DebConf23
 -----------------------------------------
  As the final day of DebConf23 dawned, I savored my last breakfast with no compromises. It was a fitting conclusion to a memorable journey. Afterwards, it was time to bid farewell to all the new friends I had gathered during DebConf, an emotional yet heartwarming experience. With the conference coming to a close, our next stop was the courier service, where we sent the leftover swags to friends who had played a crucial role in making the MiniDebConf at our college a reality. It was a small token of appreciation for their support. Finally, with a heavy heart filled with cherished memories, I departed for my hometown, knowing that DebConf23 had left an indelible mark on my journey in the world of open-source and community. Until next time!
-![food](/images/5.png)
 
