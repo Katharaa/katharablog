@@ -120,9 +120,7 @@ The Post-Credits: Farewell to DebConf23
 
 ## Some Photos I Took
 
-<div class="photo-grid">
-  <img src="/images/3.png" alt="Food">
-  <img src="/images/4.png" alt="Food">
-  <img src="/images/5.png" alt="Fun">
-  <img src="/images/6.jpg" alt="Boat">
-</div>
+|   |   |
+|---|---|
+| ![Food](/images/3.png) | ![Food](/images/4.png) |
+| ![Fun](/images/5.png)  | ![Boat](/images/6.jpg)  |
