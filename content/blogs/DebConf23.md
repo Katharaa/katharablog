@@ -122,7 +122,6 @@ The Post-Credits: Farewell to DebConf23
 | ![Food](/images/a.jpg) | ![Food](/images/b.jpg) |
 |:--:|:--:|
 | ![Fun](/images/c.JPG)| ![Boat](/images/e.jpg) |
-|:--:|:--:|
 | ![night](/images/f.JPG)|
 
 
