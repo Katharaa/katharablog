@@ -118,9 +118,14 @@ The Post-Credits: Farewell to DebConf23
 -----------------------------------------
  As the final day of DebConf23 dawned, I savored my last breakfast with no compromises. It was a fitting conclusion to a memorable journey. Afterwards, it was time to bid farewell to all the new friends I had gathered during DebConf, an emotional yet heartwarming experience. With the conference coming to a close, our next stop was the courier service, where we sent the leftover swags to friends who had played a crucial role in making the MiniDebConf at our college a reality. It was a small token of appreciation for their support. Finally, with a heavy heart filled with cherished memories, I departed for my hometown, knowing that DebConf23 had left an indelible mark on my journey in the world of open-source and community. Until next time!
 
-## Some Photos I Took
-
-|   |   |
-|---|---|
-| ![Food](/images/3.png) | ![Food](/images/4.png) |
-| ![Fun](/images/5.png)  | ![Boat](/images/6.jpg)  |
+## Gallery
+| ![Food](/images/3.png){ width=250px } | ![Food](/images/4.png){ width=250px } |
+|:--:|:--:|
+| *Caption for the first food picture* | *Caption for the second food picture* |
+| ![Fun](/images/5.png){ width=250px }  | ![Boat](/images/6.jpg){ width=250px }  |
+| *Caption for the fun picture* | *Caption for the boat picture* |
+| ![Food](/images/3.png){ width=250px } | ![Food](/images/4.png){ width=250px } |
+|:--:|:--:|
+| *Caption for the first food picture* | *Caption for the second food picture* |
+| ![Fun](/images/5.png){ width=250px }  | ![Boat](/images/6.jpg){ width=250px }  |
+| *Caption for the fun picture* | *Caption for the boat picture* |
