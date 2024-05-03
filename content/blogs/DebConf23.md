@@ -20,6 +20,9 @@ I almost missed the 24th Debian Conference because I forgot to register, which w
 
 And also guess what? They accepted my talk for the conference, so I was even more thrilled for the event! :)
 
+![pic](/static/images/0.png)
+
+
 
 DebCamp: 
 --------------------------------------
@@ -58,7 +61,9 @@ DebConf was akin to a vibrant hub of information and learning (later extending t
 
 * **Salsa CI BoF** by Santiago Ruano Rincón in the Packaging, Policy, and Debian Infrastructure track brought together Debian enthusiasts interested in Continuous Integration (CI). The session delved into the current status and new features of Salsa CI, an automated framework for building and running common tests for Debian packages before uploading to the archive. It also provided a platform for discussing potential improvements and enhancements.
 
-Home automation using free software by Abhas Abhinav demonstrated how to control various home devices exclusively with free software. The workshop featured hands-on demonstrations, including setting up a home server using Yunohost and Home Assistant on Debian, configuring a wireless router with OpenWRT, flashing tube lights with free software firmware (Tasmota), controlling electrical switches with Tasmota and Espurna firmware, monitoring power consumption, creating colorful lights with WLED, and integrating self-hosted voice assistants like Mycroft with Home Assistant. The workshop aimed to inspire participants to create similar setups and contribute to improving Debian's compatibility with these tools.
+* **Home automation using free software** by Abhas Abhinav demonstrated how to control various home devices exclusively with free software. The workshop featured hands-on demonstrations, including setting up a home server using Yunohost and Home Assistant on Debian, configuring a wireless router with OpenWRT, flashing tube lights with free software firmware (Tasmota), controlling electrical switches with Tasmota and Espurna firmware, monitoring power consumption, creating colorful lights with WLED, and integrating self-hosted voice assistants like Mycroft with Home Assistant. The workshop aimed to inspire participants to create similar setups and contribute to improving Debian's compatibility with these tools.
+
+![pic](/static/images/0.png)
 
 And that sums up it all. Along with the Debconf, the sponsors hosted a job fair in a designated area during the conference, connecting attendees with professional opportunities.
 
@@ -76,6 +81,9 @@ So, what exactly is a cheese and wine party? The concept is refreshingly simple:
 
 
 ![food](/static/images/3.png)
+
+![pic](/static/images/4.png)
+
 
 
 Exploring Alappuzha: 
