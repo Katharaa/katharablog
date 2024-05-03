@@ -62,7 +62,7 @@ DebConf was akin to a vibrant hub of information and learning (later extending t
 
 * **Home automation using free software** by Abhas Abhinav demonstrated how to control various home devices exclusively with free software. The workshop featured hands-on demonstrations, including setting up a home server using Yunohost and Home Assistant on Debian, configuring a wireless router with OpenWRT, flashing tube lights with free software firmware (Tasmota), controlling electrical switches with Tasmota and Espurna firmware, monitoring power consumption, creating colorful lights with WLED, and integrating self-hosted voice assistants like Mycroft with Home Assistant. The workshop aimed to inspire participants to create similar setups and contribute to improving Debian's compatibility with these tools.
 
-![pic](/static/images/0.png)
+![pic](/static/images/0.JPG)
 
 And that sums up it all. Along with the Debconf, the sponsors hosted a job fair in a designated area during the conference, connecting attendees with professional opportunities.
 
@@ -79,9 +79,15 @@ So, what exactly is a cheese and wine party? The concept is refreshingly simple:
 
 
 
-![food](/static/images/3.png)
+![food](/static/images/0.jpg)
+![food](/images/0.jpg)
+![food](/images/0.JPG)
 
-![pic](/static/images/4.png)
+
+
+![pic](katharablog/static/images/0.jpg)
+![pic](katharablog/static/images/0.JPG)
+
 
 
 
