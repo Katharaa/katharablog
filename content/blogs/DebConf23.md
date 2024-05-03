@@ -1,5 +1,5 @@
 ---
-title: "Deb Conf 23"
+title: "DebConf 23"
 date: 2023-08-01
 draft: false
 ShowToc: true
@@ -99,6 +99,8 @@ It was an exciting day, as we had the opportunity to choose from five different 
  We set sail on the Punnamada Kayal in a traditional Kerala houseboat, drifting through the serene backwaters, surrounded by lush greenery and tranquil waters. I had a lot of fun playing games onboard, swapping stories with folks from different places, listening to experiences from their previous conferences, and enjoying the most delicious food.
 
 ![food](/images/5.png)
+![food](/images/6.png)
+
 
 
 Remembering Abraham Raji:
