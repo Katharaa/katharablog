@@ -68,7 +68,7 @@ And that sums up it all. Along with the Debconf, the sponsors hosted a job fair 
 
 
 
-The Cheese and Wine Party: A Missed Opportunity
+The Cheese and Wine Party:
 -----------------------------------------------
 
 An event we missed out on for the most part, as we were busy assisting attendees in acquiring local SIM cards.
