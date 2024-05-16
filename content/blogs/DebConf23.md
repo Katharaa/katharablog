@@ -1,6 +1,6 @@
 ---
 title: "DebConf 23"
-date: 2023-08-01
+date: 2023-10-01
 draft: false
 ShowToc: true
 slug: DebConf 23
