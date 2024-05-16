@@ -108,6 +108,12 @@ menu:
       name: Blogs
       url: /blogs/
       weight: 1
+
+outputs:
+  blogs:
+    - HTML
+    - RSS
+
    # - identifier: projects
   #    name: Projects
  #     url: /projects/
