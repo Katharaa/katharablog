@@ -26,6 +26,7 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
+  customCSS: ["static/css/custom.css"]
 
   ShowReadingTime: true
   ShowShareButtons: true
