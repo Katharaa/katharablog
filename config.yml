@@ -40,6 +40,9 @@ params:
   showtoc: false
   tocopen: false
 
+  label:
+    text: "Kathara Sasikumar"
+
   homeInfoParams:
     Title: "Hi there 👋"
     Content: "I'm  **Kathara**"
