@@ -52,8 +52,6 @@ params:
     buttons:
       - name: Blogs
         url: blogs
-  #    - name: Projects
- #       url: projects
 
   socialIcons:
 
