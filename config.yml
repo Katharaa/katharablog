@@ -99,8 +99,11 @@ menu:
     - identifier: blog
       name: Blogs
       url: /blogs/
-      weight: 1
-
+      weight: 20
+    - identifier: example
+      name: Debian
+      url: https://qa.debian.org/developer.php?email=katharasasikumar007%40gmail.com
+ 
 outputs:
   blogs:
     - HTML
