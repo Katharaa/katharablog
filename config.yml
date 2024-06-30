@@ -42,8 +42,8 @@ params:
 
   label:
     text: "Kathara Sasikumar"
-    icon: "images/coding.png"
-    iconHeight: 35
+   # icon: "images/coding.png"
+   # iconHeight: 35
 
   homeInfoParams:
     Title: "Hi there 👋"
