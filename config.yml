@@ -42,12 +42,7 @@ params:
 
   homeInfoParams:
     Title: "Hi there 👋"
-    Content: "I'm Kathara"
-
-  label:
-    text: "Kathara Sasikumar"
-    icon: "images/coding.png"
-    iconHeight: 35
+    Content: "I'm  **Kathara**"
 
   # profile-mode
   profileMode:
