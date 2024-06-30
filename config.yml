@@ -60,7 +60,12 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/kathara-sasikumar-53a24419b/"
     - name: github
-      url: "https://gitlab.com/katharasasikumar007"
+      url: "https://github.com/Katharaa"
+    - name: gitlab
+      url: "https://salsa.debian.org/kathara"
+    - name: matrix
+      url: "https://matrix.to/#/@kathara:matrix.org"
+
 
   cover:
     hidden: true # hide everywhere but not in structured data
