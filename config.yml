@@ -18,7 +18,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Kathara Sasikumar
-  description: "This is **Kathara**"
+  description: "This is Kathara"
   keywords: [Blog, Portfolio]
   author: Kathara Sasikumar
   # author: ["Me", "You"] # multiple authors
@@ -42,8 +42,8 @@ params:
 
   label:
     text: "Kathara Sasikumar"
-    icon: "images/coding.png"
-    iconHeight: 35
+   # icon: "images/coding.png"
+   # iconHeight: 35
 
   homeInfoParams:
     Title: "Hi there 👋"
@@ -52,8 +52,6 @@ params:
     buttons:
       - name: Blogs
         url: blogs
-  #    - name: Projects
- #       url: projects
 
   socialIcons:
 
@@ -62,7 +60,12 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/kathara-sasikumar-53a24419b/"
     - name: github
-      url: "https://gitlab.com/katharasasikumar007"
+      url: "https://github.com/Katharaa"
+    - name: gitlab
+      url: "https://salsa.debian.org/kathara"
+    - name: matrix
+      url: "https://matrix.to/#/@kathara:matrix.org"
+
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -96,8 +99,11 @@ menu:
     - identifier: blog
       name: Blogs
       url: /blogs/
-      weight: 1
-
+      weight: 20
+    - identifier: example
+      name: Debian
+      url: https://qa.debian.org/developer.php?email=katharasasikumar007%40gmail.com
+ 
 outputs:
   blogs:
     - HTML
