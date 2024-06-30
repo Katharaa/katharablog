@@ -18,7 +18,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Kathara Sasikumar
-  description: "This is **Kathara**"
+  description: "This is Kathara"
   keywords: [Blog, Portfolio]
   author: Kathara Sasikumar
   # author: ["Me", "You"] # multiple authors
