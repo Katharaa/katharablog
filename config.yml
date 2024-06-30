@@ -40,6 +40,10 @@ params:
   showtoc: false
   tocopen: false
 
+  homeInfoParams:
+    Title: "Hi there 👋"
+    Content: "I'm Kathara"
+
   label:
     text: "Kathara Sasikumar"
     icon: "images/coding.png"
